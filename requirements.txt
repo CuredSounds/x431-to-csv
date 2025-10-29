@@ -1,0 +1,4 @@
+# X431 to CSV Converter - Python Dependencies
+# No external dependencies required - uses Python standard library only
+# Tested with Python 3.7+
+
